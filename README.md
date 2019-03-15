@@ -1,2 +1,3 @@
-# time_scheduler
-golang code, time scheduler 
+# 定时器
+1. 每分钟的第 16、18、20 秒执行任务
+2. 每天的第 16、18、20 点执行任务
